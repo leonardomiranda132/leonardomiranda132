@@ -40,7 +40,7 @@ Em paralelo, curso **Análise e Desenvolvimento de Sistemas** e sigo evoluindo e
 
 <div align="center">
   <p><b>Linguagens</b></p>
-  <img src="https://skillicons.dev/icons?i=c,cs,php,python,js,html,css&amp;theme=dark" alt="Linguagens"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,python,php,cs,c&amp;theme=dark" alt="Linguagens"/>
   <p><b>Banco de dados &amp; Ferramentas</b></p>
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&amp;theme=dark" alt="Ferramentas"/>
   <p><b>Plataformas de E-commerce &amp; Varejo</b></p>
@@ -55,7 +55,7 @@ Em paralelo, curso **Análise e Desenvolvimento de Sistemas** e sigo evoluindo e
   <tr><td>🧩 <b>Suporte técnico</b></td><td>Diagnóstico de incidentes, análise de causa raiz e documentação de soluções</td></tr>
   <tr><td>🛒 <b>E-commerce</b></td><td>Operação e suporte em VTEX, apoio à integração com Microvix</td></tr>
   <tr><td>🗄️ <b>Dados</b></td><td>Consultas e análises em SQL para investigar problemas e gerar informação</td></tr>
-  <tr><td>🌐 <b>Web</b></td><td>Desenvolvimento com HTML, CSS e JavaScript</td></tr>
+  <tr><td>🌐 <b>Web</b></td><td>Desenvolvimento com TypeScript, JavaScript, HTML e CSS</td></tr>
 </table>
 
 ## 🏆 Conquistas
@@ -66,8 +66,8 @@ Em paralelo, curso **Análise e Desenvolvimento de Sistemas** e sigo evoluindo e
 ## 📊 GitHub em números
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=leonardomiranda132&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;theme=tokyonight&amp;title_color=00C2A8&amp;icon_color=0A66C2" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomiranda132&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=tokyonight&amp;title_color=00C2A8" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=leonardomiranda132&amp;show_icons=true&amp;hide_border=true&amp;locale=pt-br&amp;theme=tokyonight&amp;title_color=00C2A8&amp;icon_color=0A66C2" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomiranda132&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;locale=pt-br&amp;theme=tokyonight&amp;title_color=00C2A8" alt="Top Languages"/>
   <br/>
   <img src="https://streak-stats.demolab.com?user=leonardomiranda132&amp;hide_border=true&amp;theme=tokyonight&amp;ring=00C2A8&amp;fire=0A66C2&amp;currStreakLabel=00C2A8" alt="GitHub Streak"/>
 </div>
