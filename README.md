@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3500&amp;pause=800&amp;color=0A66C2&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Analista+de+Suporte+T%C3%A9cnico+%40+Alphabeto;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;VTEX+%E2%80%A2+Microvix+%E2%80%A2+SQL+%E2%80%A2+Web;Transformando+problemas+em+solu%C3%A7%C3%B5es+%F0%9F%9A%80" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3500&amp;pause=800&amp;color=0A66C2&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Analista+de+Suporte+T%C3%A9cnico+%40+Alphabeto;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;VTEX+%E2%80%A2+Microvix+%E2%80%A2+SQL+%E2%80%A2+Web;Transformando+problemas+em+solu%C3%A7%C3%B5es+%F0%9F%9A%80" alt="Typing SVG"/>
   </a>
   <br/>
   <a href="https://www.linkedin.com/in/leonardo-miranda-437335252/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
