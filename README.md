@@ -16,7 +16,7 @@
 const leonardo = {
   nome:        "Leonardo de Oliveira Miranda",
   local:       "São João Nepomuceno, MG 🇧🇷",
-  cargo:       "Analista de Suporte Técnico @ Alphabeto",
+  cargo:       "Desenvolvedor de Software @ Alphabeto",
   formacao:    "Análise e Desenvolvimento de Sistemas — Universidade Estácio de Sá",
   plataformas: ["VTEX", "Microvix"],
   idiomas:     ["Português (nativo)", "Inglês (fluente)"],
